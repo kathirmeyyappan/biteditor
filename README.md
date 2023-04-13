@@ -1,0 +1,1 @@
+This is a simple bit editor using pygame created as a homework assignment in CMSC 14200
